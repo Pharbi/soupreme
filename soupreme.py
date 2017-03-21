@@ -7,24 +7,24 @@ import sys
 import time
 from datetime import datetime
 
-product = "3M Reflective Logo Balaclava"
-style = "Woodland Camo"
+product = "HYPED ITEM OF THE WEEK"
+style = "HYPED ITEM OF THE WEEK"
 size = "OS"
-mainUrl = "http://www.supremenewyork.com/shop/all/hats"
+mainUrl = "http://www.supremenewyork.com/shop/"
 baseUrl = "http://supremenewyork.com"
 checkoutUrl = "https://www.supremenewyork.com/checkout"
-namefield = "Christopher Paris"
-emailfield = "chrisparis258@gmail.com "
-phonefield = "9174712470"
-addressfield = "8245 164th Street"
-cityfield = "Queens"
-zipfield = "11432"
-statefield = "NY"
+namefield = "UR NAME HERE"
+emailfield = "UR EMAIL "
+phonefield = "UR #"
+addressfield = "UR ADDY"
+cityfield = "ADDY"
+zipfield = "ZIPPY"
+statefield = "ST"
 cctypefield = "visa"  # "master" "visa" "american_express"
-ccnumfield = "4207670150615170"  # Randomly Generated Data (aka, this isn't mine)
-ccmonthfield = "11"  # Randomly Generated Data (aka, this isn't mine)
-ccyearfield = "2018"  # Randomly Generated Data (aka, this isn't mine)
-cccvcfield = "966"  # Randomly Generated Data (aka, this isn't mine)
+ccnumfield = "00340303040"  # Randomly Generated Data (aka, this isn't mine)
+ccmonthfield = "MM"  # Randomly Generated Data (aka, this isn't mine)
+ccyearfield = "YYYY"  # Randomly Generated Data (aka, this isn't mine)
+cccvcfield = "CCV"  # Randomly Generated Data (aka, this isn't mine)
 
 
 def find():
