@@ -1,4 +1,4 @@
-Readme for SUPNY, built off of jayzers initial idea
+Readme for SUPNY
 --------------------------------------
 1. Download python3 b/c thats the wave we're now
 2. Install webdriver
